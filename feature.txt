@@ -2,3 +2,4 @@ create feature file in main branch
 new update feature file txt
 new second update feature.txt file
 from feature from feature file updated
+chery pick bug fixed
